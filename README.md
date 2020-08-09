@@ -1,6 +1,6 @@
 # TelegramActiveMembersScrapper
 Scrapper for Active Telegram Group Memebers (python)
-
+- THE EXISTING api_id,api_hash,phone number IS FOR DEMO AND NOT REAL. (VALUES HAVE BEEN CHANGED)
 get active members from a telegram group by ( month and day)
 
 this simple script will scrape all users active on a specific day (filtered by month)
