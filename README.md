@@ -6,6 +6,10 @@ Scrapper for Active Telegram Group Memebers (python)
 - this simple script will scrape all users active on a specific day (filtered by month)
 
 RUN
+
+Install Telethon Module for Python
+-> pip3 install telethon
+
 - open script and enter your api_id,api_hash,phone number
 - change 8(month) and 9(day) to match the current month and day
 - cd into the folder of the script (getActiveMembers.py)
